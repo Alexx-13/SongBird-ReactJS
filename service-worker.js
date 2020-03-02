@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SongBird-ReactJS/precache-manifest.60635ade74724da6fa9f2dd1a6cab933.js"
+  "/SongBird-ReactJS/precache-manifest.fc7feaaac65baceb04ddd1d87456e062.js"
 );
 
 self.addEventListener('message', (event) => {

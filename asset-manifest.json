@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/SongBird-ReactJS/static/css/main.3b1c0270.chunk.css",
-    "main.js": "/SongBird-ReactJS/static/js/main.e272c23e.chunk.js",
-    "main.js.map": "/SongBird-ReactJS/static/js/main.e272c23e.chunk.js.map",
+    "main.css": "/SongBird-ReactJS/static/css/main.ab5efc69.chunk.css",
+    "main.js": "/SongBird-ReactJS/static/js/main.eb9d07f3.chunk.js",
+    "main.js.map": "/SongBird-ReactJS/static/js/main.eb9d07f3.chunk.js.map",
     "runtime-main.js": "/SongBird-ReactJS/static/js/runtime-main.3410ff75.js",
     "runtime-main.js.map": "/SongBird-ReactJS/static/js/runtime-main.3410ff75.js.map",
     "static/js/2.744ba625.chunk.js": "/SongBird-ReactJS/static/js/2.744ba625.chunk.js",
     "static/js/2.744ba625.chunk.js.map": "/SongBird-ReactJS/static/js/2.744ba625.chunk.js.map",
     "index.html": "/SongBird-ReactJS/index.html",
-    "precache-manifest.60635ade74724da6fa9f2dd1a6cab933.js": "/SongBird-ReactJS/precache-manifest.60635ade74724da6fa9f2dd1a6cab933.js",
+    "precache-manifest.fc7feaaac65baceb04ddd1d87456e062.js": "/SongBird-ReactJS/precache-manifest.fc7feaaac65baceb04ddd1d87456e062.js",
     "service-worker.js": "/SongBird-ReactJS/service-worker.js",
-    "static/css/main.3b1c0270.chunk.css.map": "/SongBird-ReactJS/static/css/main.3b1c0270.chunk.css.map",
+    "static/css/main.ab5efc69.chunk.css.map": "/SongBird-ReactJS/static/css/main.ab5efc69.chunk.css.map",
     "static/js/2.744ba625.chunk.js.LICENSE.txt": "/SongBird-ReactJS/static/js/2.744ba625.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3410ff75.js",
     "static/js/2.744ba625.chunk.js",
-    "static/css/main.3b1c0270.chunk.css",
-    "static/js/main.e272c23e.chunk.js"
+    "static/css/main.ab5efc69.chunk.css",
+    "static/js/main.eb9d07f3.chunk.js"
   ]
 }
