@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Alexx-13.github.io/SongBird-ReactJS/static/css/main.3b1c0270.chunk.css",
+    "main.js": "/Alexx-13.github.io/SongBird-ReactJS/static/js/main.c670ab15.chunk.js",
+    "main.js.map": "/Alexx-13.github.io/SongBird-ReactJS/static/js/main.c670ab15.chunk.js.map",
+    "runtime-main.js": "/Alexx-13.github.io/SongBird-ReactJS/static/js/runtime-main.848de9e3.js",
+    "runtime-main.js.map": "/Alexx-13.github.io/SongBird-ReactJS/static/js/runtime-main.848de9e3.js.map",
+    "static/js/2.744ba625.chunk.js": "/Alexx-13.github.io/SongBird-ReactJS/static/js/2.744ba625.chunk.js",
+    "static/js/2.744ba625.chunk.js.map": "/Alexx-13.github.io/SongBird-ReactJS/static/js/2.744ba625.chunk.js.map",
+    "index.html": "/Alexx-13.github.io/SongBird-ReactJS/index.html",
+    "precache-manifest.9fb213c780e80a4b7a855447d2763a63.js": "/Alexx-13.github.io/SongBird-ReactJS/precache-manifest.9fb213c780e80a4b7a855447d2763a63.js",
+    "service-worker.js": "/Alexx-13.github.io/SongBird-ReactJS/service-worker.js",
+    "static/css/main.3b1c0270.chunk.css.map": "/Alexx-13.github.io/SongBird-ReactJS/static/css/main.3b1c0270.chunk.css.map",
+    "static/js/2.744ba625.chunk.js.LICENSE.txt": "/Alexx-13.github.io/SongBird-ReactJS/static/js/2.744ba625.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.848de9e3.js",
+    "static/js/2.744ba625.chunk.js",
+    "static/css/main.3b1c0270.chunk.css",
+    "static/js/main.c670ab15.chunk.js"
+  ]
+}
