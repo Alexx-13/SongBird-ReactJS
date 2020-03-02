@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/alexx-13.github.io/SongBird-ReactJS/static/css/main.3b1c0270.chunk.css",
-    "main.js": "/alexx-13.github.io/SongBird-ReactJS/static/js/main.f096e24a.chunk.js",
-    "main.js.map": "/alexx-13.github.io/SongBird-ReactJS/static/js/main.f096e24a.chunk.js.map",
-    "runtime-main.js": "/alexx-13.github.io/SongBird-ReactJS/static/js/runtime-main.64cb4442.js",
-    "runtime-main.js.map": "/alexx-13.github.io/SongBird-ReactJS/static/js/runtime-main.64cb4442.js.map",
-    "static/js/2.744ba625.chunk.js": "/alexx-13.github.io/SongBird-ReactJS/static/js/2.744ba625.chunk.js",
-    "static/js/2.744ba625.chunk.js.map": "/alexx-13.github.io/SongBird-ReactJS/static/js/2.744ba625.chunk.js.map",
-    "index.html": "/alexx-13.github.io/SongBird-ReactJS/index.html",
-    "precache-manifest.e54987889f561b7cc386912883498af8.js": "/alexx-13.github.io/SongBird-ReactJS/precache-manifest.e54987889f561b7cc386912883498af8.js",
-    "service-worker.js": "/alexx-13.github.io/SongBird-ReactJS/service-worker.js",
-    "static/css/main.3b1c0270.chunk.css.map": "/alexx-13.github.io/SongBird-ReactJS/static/css/main.3b1c0270.chunk.css.map",
-    "static/js/2.744ba625.chunk.js.LICENSE.txt": "/alexx-13.github.io/SongBird-ReactJS/static/js/2.744ba625.chunk.js.LICENSE.txt"
+    "main.css": "/SongBird-ReactJS/static/css/main.3b1c0270.chunk.css",
+    "main.js": "/SongBird-ReactJS/static/js/main.e272c23e.chunk.js",
+    "main.js.map": "/SongBird-ReactJS/static/js/main.e272c23e.chunk.js.map",
+    "runtime-main.js": "/SongBird-ReactJS/static/js/runtime-main.3410ff75.js",
+    "runtime-main.js.map": "/SongBird-ReactJS/static/js/runtime-main.3410ff75.js.map",
+    "static/js/2.744ba625.chunk.js": "/SongBird-ReactJS/static/js/2.744ba625.chunk.js",
+    "static/js/2.744ba625.chunk.js.map": "/SongBird-ReactJS/static/js/2.744ba625.chunk.js.map",
+    "index.html": "/SongBird-ReactJS/index.html",
+    "precache-manifest.60635ade74724da6fa9f2dd1a6cab933.js": "/SongBird-ReactJS/precache-manifest.60635ade74724da6fa9f2dd1a6cab933.js",
+    "service-worker.js": "/SongBird-ReactJS/service-worker.js",
+    "static/css/main.3b1c0270.chunk.css.map": "/SongBird-ReactJS/static/css/main.3b1c0270.chunk.css.map",
+    "static/js/2.744ba625.chunk.js.LICENSE.txt": "/SongBird-ReactJS/static/js/2.744ba625.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.64cb4442.js",
+    "static/js/runtime-main.3410ff75.js",
     "static/js/2.744ba625.chunk.js",
     "static/css/main.3b1c0270.chunk.css",
-    "static/js/main.f096e24a.chunk.js"
+    "static/js/main.e272c23e.chunk.js"
   ]
 }
